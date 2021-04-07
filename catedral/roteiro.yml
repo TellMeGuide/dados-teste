@@ -1,0 +1,138 @@
+id: 1
+titulo: Catedral Basílica Nossa Senhora das Neves
+cidade: João Pessoa
+estado: PB
+descricao: |
+  Catedral Basílica Nossa Senhora das Neves, em João Pessoa, capital do Estado da Paraíba, Brasil.
+  Nosso roteiro terá um total aproximado de 60 minutos de duração.
+etapas:
+  - titulo: Boas-Vindas
+    imagens:
+      - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_164743401.jpg?raw=true
+        descricao: Catedral Basílica de Nossa Senhora das Neves
+    descricao: |
+      Olá! Eu sou Maiara Cavalcanti!
+      Serei sua guia virtual! 
+      Terei a honra de apresentar a Catedral Basílica Nossa Senhora das Neves, em João Pessoa, capital do Estado da Paraíba, Brasil.
+      Quero agradecer seu interesse por nossa rica história! 
+      Sei que você vai apreciar ainda mais após nossa jornada.
+      Nosso roteiro terá um total aproximado de 60 minutos de duração. 
+      Antes de iniciar. Que tal escutar com atenção às nossas orientações de segurança e comodidade?
+  - titulo: Segurança e Comodidade
+    imagens: []
+    descricao: |
+      João Pessoa é uma cidade de clima tropical, portanto use roupas adequadas para a estação do ano.
+      Devido ao clima úmido e ao calor, tenha atenção constante com sua hidratação.
+      A Catedral Basílica de Nossa Senhora das Neves se situa na praça Dom Ulrico, no centro de João Pessoa. Recomendo realizar esse roteiro durante o dia, verificando, com antecedência, se ela se encontra aberta para visitação. Informe-se na recepção de seu hotel ou, então, ligue para a Catedral pelo telefone de contato DDD (83) 3221-2503.
+      Na região do centro de João Pessoa pode haver pequenos furtos, tenha atenção aos seus pertences.
+      Agora que você sabe nossas dicas de segurança e comodidade, podemos iniciar nossa jornada. Nosso ponto inicial é na calçada em frente à porta principal da Catedral Basílica Nossa Senhora das Neves, na praça Dom Ulrico. <IMAGEM DA CALÇADA E DA PORTA PRINCIPAL>
+      Aguardarei você lá.
+  - titulo: "Ponto inicial: calcada frontal"
+    imagens: []
+    descricao: |
+      Que bom que você chegou! Estou ansiosa para lhe contar sobre a mais importante Igreja do Estado da Paraíba. Mas, antes, que tal conhecer um pouco do entorno?
+      Para que você melhor se situe. A sua frente se encontra ela, a Catedral Basílica Nossa Senhora das Neves que logo iremos entrar. <IMAGEM DA CALÇADA E DA PORTA PRINCIPAL> Como você sabe, ela está situada na praça Dom Ulrico que também abriga, do outro lado, o prédio da Faculdade de Ciências Médicas da Paraíba <IMAGEM DA CALÇADA E DA PORTA PRINCIPAL>. Em frente à Catedral está o Mosteiro de São Bento <IMAGEM DA CALÇADA E DA PORTA PRINCIPAL>.
+      Eu fico fascinada com tanto patrimônio histórico desse local! Você não?
+      Bem... antes de falar da Catedral, quero que você caminhe até a praça Dom Ulrico, posicione-se em frente ao monumento da imagem de Nossa Senhora de Lourdes <IMAGEM DA CALÇADA E DA PORTA PRINCIPAL>.
+      Abrigue-se à sombra de uma árvore, caso esteja com calor.
+  - titulo: Praça Dom Ulrico
+    imagens:
+      - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_164854926.jpg?raw=true
+        descricao: Por causa das construções não se pode observar, mas há época, daqui se via o contorno do Rio Sanhauá, que é um afluente do Rio Paraíba e que, em tupi-guarani, significa “Dente Redondo”.
+      - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_164907284.jpg?raw=true
+        descricao: Além de mais ventilada, o que amenizava o calor tropical, o local onde está essa praça e seu entorno era, portanto, estratégico para os portugueses e sua mais nova cidade.
+    descricao: |
+      Essa praça foi o exato local escolhido pelos portugueses para se estabelecerem após expulsar, em 1585, e com a ajuda dos tabajaras, traficantes franceses de madeira da árvore pau-brasil, e seus aliados potiguaras. 
+      Tabajaras, aliados dos portugueses, e potiguaras, aliados dos franceses, eram grupos indígena presentes na região.
+      No dia 5 de agosto de 1585, dia de Nossa Senhora das Neves, que é uma entidade religiosa do catolicismo, foi fundada, então, o núcleo populacional ou Cidade Real de Nossa Senhora das Neves. Os portugueses costumavam dar nome as novas cidades de acordo com o dia em que elas eram fundadas.
+      A fé dos novos habitantes demandou deles a construção da primeira edificação da Catedral, em 1586, de forma simples, feita de paredes de taipa, que é uma técnica de construção rudimentar baseada na aplicação de barro, madeira, além de outros materiais disponíveis no local.
+  - titulo: Guerra e Paz
+    imagens:
+    - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_165004030.jpg?raw=true
+      descricao: Teste...
+    - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_165537130.jpg?raw=true
+      descricao: Teste...
+    descricao: |
+      A paz com os potiguaras foi alcançada em 1599, após uma devastadora epidemia de varíola entre os indígenas. Mas, esse belo e estratégico local ainda estava na cobiça de outro povo!
+      Esse outro povo, de idioma bem mais diferente que o francês para o português, era o holandês. Almejando o controle de Pernambuco, os holandeses invadiram a cidade de Nossa Senhora das Neves em 1634 e dominaram a Paraíba.
+      Que incrível! Não é?
+      O diretor da Companhia Neerlandesa das Índias Ocidentais, Elias Herckmans, governou a Paraíba de 1636 a 1639, nesse período ele descreveu a Catedral Basílica de Nossa Senhora das Neves como algo inacabado.
+      <IMAGEM DOS HOLANDESES NO BRASIL>
+      Os portugueses retomaram a capital paraibana em 1654. Ou seja, 20 anos depois! Expulsaram os holandeses não apenas da Paraíba, mas de todo o Brasil. 
+      Nas duas décadas em que permaneceu sobre domínio holandês, a cidade de Nossa Senhora das Neves passou a ser chamada de Frederikstadt. Ao ser reintegrada ao Reio de Portugal, seu nome mudou pela terceira vez, para Parahyba, permanecendo assim até 1930, quando, por ocasião da morte do candidato a presidente João Pessoa, recebeu, em homenagem, o seu nome.
+      Espere mais um pouco nesse local que ainda tenho mais coisas para te contar.
+  - titulo: Importância da Praça e Monumentos
+    imagens:
+    - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_165740865.jpg?raw=true
+      descricao: Teste...
+    descricao: |
+      Muita história, não é?
+      Essa própria praça, que hoje é chamada de Dom Ulrico, já foi chamada de Largo da Matriz. Recebeu o atual nome em homenagens póstumas ao benemérito prior do Mosteiro de São Bento, Dom Ulrico Sanntag, que dedicou sua vida em favor da população menos favorecida.
+      Você já deve ter reparado na Imagem de Nossa Senhora de Lourdes, que é uma das invocações marianas atribuídas à Virgem Maria, mãe de Jesus Cristo. O monumento foi feito na França. Trazida ao Brasil, foi inaugurada em 11 de fevereiro de 1922.
+      Na praça ainda há um marco em pedra que indica a altura de 43 metros, acima do nível do mar, de realização do Instituto Histórico e Geográfico do Rio Grande do Norte. Também de 1922.
+      Agora que você conhece um pouco do entorno, vamos nos concentrar na história da Catedral.
+      Não precisa ir a lugar algum. Será aqui mesmo que irei te contar!
+  - titulo: História da Catedral
+  - imagens:
+    - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_165851591.jpg?raw=true
+      descricao: Teste...
+    - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_170110371.jpg?raw=true
+      descricao: Teste...
+    descricao: |
+      Como eu havia lhe dito, a Catedral teve sua primeira construção em 1586, um ano após a fundação da cidade.
+      Ao longo dos séculos, foram muitas as reformas, construções e reconstruções. Todas com muita restrição orçamentária. Porém, sempre mantendo o local original. 
+      No ano de 1881, graças ao padre Francisco de Paula Melo Cavalcante, ela sofreria a reforma que daria o estilo arquitetônico atual: eclético.
+      Em 1894, a até então Igreja Nossa Senhora das Neves passou a ganhar o título de Catedral Nossa Senhora das Neves, uma vez que a Diocese da Paraíba acabara de ser criada. Catedral porque passou a ater papel administrativo e eclesiástico. Ou seja, sé episcopal onde há um bispo católico.
+      116 anos depois, durante o episcopado de Dom Marcelo Pinto Carvalheira, a Catedral recebeu em 1997 o título de Basílica, sendo atualmente chamada de Catedral Basílica Nossa Senhora das Neves.
+      Basílica é uma igreja que recebeu esse título do Papa por apresentar algum motivo importante: local de veneração; transcendência histórica; ou beleza artística e arquitetônica. As basílicas gozam de alguns privilégios. Também tem um significado arquitetônico por ser similar às basílicas da Roma Antiga.
+      Interessante! Não é? 
+  - titulo: Curiosidade
+  - imagens:
+    - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_170214934.jpg?raw=true
+      descricao: Teste...
+    descricao: |
+      Até aqui vimos um pouco da história de João Pessoa, da praça Dom Ulrico e da Catedral Basílica Nossa Senhora das Neves.
+      Quero saber se você ficou atento a um detalhe específico. 
+      Por que ao nome de Nossa Senhora foi acrescentado “das Neves”? Nossa Senhora das Neves! Em um clima tropical como o de João Pessoa, neve é um substantivo muito improvável. Curioso, não é?
+      Se você não souber, não tem problema, explicarei ao longo do nosso roteiro. 
+      Agora sugiro que você percorra a área externa da Catedral observando sua arquitetura. Veja os detalhes da construção externa. Vá, pela calçada, de um lado da Catedral para o outro. 
+      Quando terminar de contemplar o exterior da igreja, nos encontraremos na porta principal.
+      Leve o tempo que for preciso! Você é quem dita o ritmo!
+      Até lá!
+  - titulo: Estilo Eclético
+  - imagens:
+    - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_170331573.jpg?raw=true
+      descricao: Teste...
+    descricao: |
+      Espero que o sol ou o clima não estejam incomodando. Se estiverem, abrigue-se em um local agradável, pois vou contar um pouco sobre o estilo arquitetônico.
+      A Catedral Basílica Nossa Senhora das Neves, quando reformada em 1881, assumiu um estilo eclético. Por estilo eclético se entende um estilo arquitetônico de transição e predominante de meados do século XIX até as primeiras décadas do século XX.
+      Esse estilo faz uso de elementos das arquiteturas clássica, medieval, renascentista, barroca e neoclássica. Portanto, é uma mistura de tudo que havia há época. 
+      Tal estilo eclético também se caracteriza pela simetria, busca de grandiosidade, rigorosa hierarquização dos espaços internos e riqueza decorativa. 
+      Além da Catedral Basílica Nossa Senhora das Neves, são exemplos desse estilo arquitetônico a Ópera de Paris, construído em 1875, o Museu Metropolitano de Arte de Nova York, construído em 1870, e a Casa Rosada em Buenos Aires, construída em 1898.
+      Espero que você já tenha visitado alguns desses! Senão, fica a dica!
+      Uma curiosidade! Note que, entre as duas torres da Catedral, há uma imagem. Essa imagem já foi a da padroeira da cidade, Nossa Senhora das Neves. Porém, a imagem atual é a de Nossa Senhora da Conceição.
+      Explicarei um pouco sobre a Nossa Senhora da Conceição, também chamada Nossa Senhora Imaculada Conceição, lá dentro da nave da Catedral.
+
+      Convido a ingressar na Catedral. Passe pela porta principal. Nos encontraremos logo após ela.
+      
+      Referências:
+      https://pt.wikipedia.org/wiki/Capitania_da_Para%C3%ADba
+      https://pt.wikipedia.org/wiki/Catedral_Bas%C3%ADlica_de_Nossa_Senhora_das_Neves
+      https://paraondeir.blog/nossa-senhora-das-neves/
+      https://pt.wikipedia.org/wiki/Elias_Herckmans
+      https://pt.wikipedia.org/wiki/Arquitetura_ecl%C3%A9tica
+      https://pt.wikipedia.org/wiki/Arquitetura_de_catedrais_e_grandes_igrejas
+      https://pt.wikipedia.org/wiki/Bas%C3%ADlica
+      https://pt.wikipedia.org/wiki/N%C3%A1rtex
+      https://pt.wikipedia.org/wiki/Pinus_sylvestris
+      https://www.liturgia.pt/acolitos/curso/curso03.php
+      https://pt.wikipedia.org/wiki/Sagrado_Cora%C3%A7%C3%A3o_de_Jesus
+      https://pt.wikipedia.org/wiki/Nossa_Senhora_das_Neves
+      https://pt.wikipedia.org/wiki/Ana,_m%C3%A3e_de_Maria
+      https://pt.wikipedia.org/wiki/Pedro_(ap%C3%B3stolo)
+      https://pt.wikipedia.org/wiki/Cec%C3%ADlia_de_Roma
+      https://pt.wikipedia.org/wiki/Imaculada_Concei%C3%A7%C3%A3o
+      https://pt.wikipedia.org/wiki/Nossa_Senhora_da_Assun%C3%A7%C3%A3o
+      https://pt.wikipedia.org/wiki/Assun%C3%A7%C3%A3o_de_Maria
+      https://pt.wikipedia.org/wiki/Ascens%C3%A3o_(misticismo)
+      https://pt.wikipedia.org/wiki/Nossa_Senhora_de_Lourdes
