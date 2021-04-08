@@ -1,4 +1,4 @@
-id: 1
+id: catedral
 titulo: Catedral Basílica Nossa Senhora das Neves
 cidade: João Pessoa
 estado: PB
@@ -7,7 +7,7 @@ descricao: |
   Nosso roteiro terá um total aproximado de 60 minutos de duração.
 etapas:
   - titulo: Boas-Vindas
-    audio: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/01-boas-vindas.mp3?raw=true
+    audioUrl: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/01-boas-vindas.mp3?raw=true
     imagens:
       - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_164743401.jpg?raw=true
         descricao: Catedral Basílica de Nossa Senhora das Neves
@@ -20,7 +20,7 @@ etapas:
       Nosso roteiro terá um total aproximado de 60 minutos de duração. 
       Antes de iniciar. Que tal escutar com atenção às nossas orientações de segurança e comodidade?
   - titulo: Segurança e Comodidade
-    audio: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/02-dicas.mp3?raw=true
+    audioUrl: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/02-dicas.mp3?raw=true
     imagens: []
     descricao: |
       João Pessoa é uma cidade de clima tropical, portanto use roupas adequadas para a estação do ano.
@@ -30,7 +30,7 @@ etapas:
       Agora que você sabe nossas dicas de segurança e comodidade, podemos iniciar nossa jornada. Nosso ponto inicial é na calçada em frente à porta principal da Catedral Basílica Nossa Senhora das Neves, na praça Dom Ulrico. <IMAGEM DA CALÇADA E DA PORTA PRINCIPAL>
       Aguardarei você lá.
   - titulo: "Ponto inicial: calcada frontal"
-    audio: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/03-ponto-inicial.mp3?raw=true
+    audioUrl: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/03-ponto-inicial.mp3?raw=true
     imagens: []
     descricao: |
       Que bom que você chegou! Estou ansiosa para lhe contar sobre a mais importante Igreja do Estado da Paraíba. Mas, antes, que tal conhecer um pouco do entorno?
@@ -39,7 +39,7 @@ etapas:
       Bem... antes de falar da Catedral, quero que você caminhe até a praça Dom Ulrico, posicione-se em frente ao monumento da imagem de Nossa Senhora de Lourdes <IMAGEM DA CALÇADA E DA PORTA PRINCIPAL>.
       Abrigue-se à sombra de uma árvore, caso esteja com calor.
   - titulo: Praça Dom Ulrico
-    audio: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/04-praca.mp3?raw=true
+    audioUrl: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/04-praca.mp3?raw=true
     imagens:
       - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_164854926.jpg?raw=true
         descricao: Por causa das construções não se pode observar, mas há época, daqui se via o contorno do Rio Sanhauá, que é um afluente do Rio Paraíba e que, em tupi-guarani, significa “Dente Redondo”.
@@ -51,7 +51,7 @@ etapas:
       No dia 5 de agosto de 1585, dia de Nossa Senhora das Neves, que é uma entidade religiosa do catolicismo, foi fundada, então, o núcleo populacional ou Cidade Real de Nossa Senhora das Neves. Os portugueses costumavam dar nome as novas cidades de acordo com o dia em que elas eram fundadas.
       A fé dos novos habitantes demandou deles a construção da primeira edificação da Catedral, em 1586, de forma simples, feita de paredes de taipa, que é uma técnica de construção rudimentar baseada na aplicação de barro, madeira, além de outros materiais disponíveis no local.
   - titulo: Guerra e Paz
-    audio: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/05-holandeses.mp3?raw=true
+    audioUrl: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/05-holandeses.mp3?raw=true
     imagens:
     - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_165004030.jpg?raw=true
       descricao: Esse outro povo, de idioma bem mais diferente que o francês para o português, era o holandês.
@@ -67,7 +67,7 @@ etapas:
       Nas duas décadas em que permaneceu sobre domínio holandês, a cidade de Nossa Senhora das Neves passou a ser chamada de Frederikstadt. Ao ser reintegrada ao Reio de Portugal, seu nome mudou pela terceira vez, para Parahyba, permanecendo assim até 1930, quando, por ocasião da morte do candidato a presidente João Pessoa, recebeu, em homenagem, o seu nome.
       Espere mais um pouco nesse local que ainda tenho mais coisas para te contar.
   - titulo: Importância da Praça e Monumentos
-    audio: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/06-dom-ulrico.mp3?raw=true
+    audioUrl: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/06-dom-ulrico.mp3?raw=true
     imagens:
     - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_165740865.jpg?raw=true
       descricao: Na praça ainda há um marco em pedra que indica a altura de 43 metros, acima do nível do mar.
@@ -79,7 +79,7 @@ etapas:
       Agora que você conhece um pouco do entorno, vamos nos concentrar na história da Catedral.
       Não precisa ir a lugar algum. Será aqui mesmo que irei te contar!
   - titulo: História da Catedral
-    audio: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/07-historia.mp3?raw=true
+    audioUrl: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/07-historia.mp3?raw=true
     imagens:
     - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_165851591.jpg?raw=true
       descricao: Ao longo dos séculos, foram muitas as reformas, construções e reconstruções.
@@ -94,7 +94,7 @@ etapas:
       Basílica é uma igreja que recebeu esse título do Papa por apresentar algum motivo importante: local de veneração; transcendência histórica; ou beleza artística e arquitetônica. As basílicas gozam de alguns privilégios. Também tem um significado arquitetônico por ser similar às basílicas da Roma Antiga.
       Interessante! Não é? 
   - titulo: Curiosidade
-    audio: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/08-curiosidade.mp3?raw=true
+    audioUrl: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/08-curiosidade.mp3?raw=true
     imagens:
     - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_170214934.jpg?raw=true
       descricao: Agora sugiro que você percorra a área externa da Catedral observando sua arquitetura.
@@ -108,7 +108,7 @@ etapas:
       Leve o tempo que for preciso! Você é quem dita o ritmo!
       Até lá!
   - titulo: Estilo Eclético
-    audio: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/09-arquitetura.mp3?raw=true
+    audioUrl: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/audios/09-arquitetura.mp3?raw=true
     imagens:
     - url: https://github.com/TellMeGuide/dados-teste/blob/main/catedral/imagens/IMG_20210109_170331573.jpg?raw=true
       descricao: Tal estilo eclético também se caracteriza pela simetria, busca de grandiosidade, rigorosa hierarquização dos espaços internos e riqueza decorativa.
